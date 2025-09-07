@@ -39,9 +39,9 @@ It connects to a backend API (NestJS) to manage To-Do items.
 
 ### 1. Clone the repository
 
-`bash
+```bash
 git clone <repository-url>
-cd frontend ` 
+cd frontend 
 
 ### 2. Install dependencies
 

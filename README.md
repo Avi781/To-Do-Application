@@ -39,32 +39,32 @@ It connects to a backend API (NestJS) to manage To-Do items.
 
 ### 1. Clone the repository
 
-```bash
+`bash
 git clone <repository-url>
-cd frontend  ```
+cd frontend ` 
 
 ### 2. Install dependencies
 
 ```bash
-npm install  ```
+npm install 
 
 ### 3. create .env.local file and setup value
 
 ```bash
 NEXT_PUBLIC_API_URL=http://localhost:3000
-NEXT_PUBLIC_JWT_TOKEN=  ``
+NEXT_PUBLIC_JWT_TOKEN= 
 
 ### 4. Create a .env.local file in the root of the frontend project and setup values
 
 ```bash
 NEXT_PUBLIC_API_URL=http://localhost:3000
-NEXT_PUBLIC_JWT_TOKEN=<your-jwt-token> ```
+NEXT_PUBLIC_JWT_TOKEN=<your-jwt-token> 
 
 ### 5. Run the development server
 
 ```bash
 npm run  build
-npm run  start ```
+npm run  start 
 
 
 
